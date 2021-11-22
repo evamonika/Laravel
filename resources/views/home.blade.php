@@ -33,7 +33,7 @@
                             <td>{{$user->email}}</td>
                         </tr>
                         <tr>
-                            <th><b>Create At</b></th>
+                            <th><b>Created At</b></th>
                             <th>:</th>
                             <td>{{$user->created_at}}</td>
                         </tr>
